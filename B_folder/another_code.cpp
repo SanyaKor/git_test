@@ -2,4 +2,14 @@
 
 using namespace std;
 
-int main(){ cout << "B";}
+void func()
+{
+    cout << "func";
+}
+
+int main()
+{ 
+    cout << "B";
+
+    return 0;
+}
