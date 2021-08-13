@@ -11,5 +11,9 @@ int main()
 { 
     cout << "B";
 
+    func();
+
+    cout << "here it is";
+
     return 0;
 }
