@@ -11,5 +11,6 @@ int main()
         cout << i << endl;
     }
 
+    cout << "wtf" << endl;
     return 0;
 }
