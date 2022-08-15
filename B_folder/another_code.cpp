@@ -5,6 +5,8 @@ using namespace std;
 void func()
 {
     cout << "func";
+    
+    
 }
 
 int main()
